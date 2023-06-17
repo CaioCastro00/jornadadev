@@ -9,22 +9,20 @@ function App() {
           likes={325}
           messages={206}
           shares={683}
-          name="Caio_Castro"
+          name="Juca"
           description="Goalkeeper's test for next catolympics"
           music="Epic training music"
           url="https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/brecker2.mp4?t=2023-05-22T19%3A37%3A45.885Z"        
         />
         <Video
-          likes={325}
-          messages={206}
-          shares={683}
-          name="Caio_Castro"
-          description="Goalkeeper's test for next catolympics"
-          music="Epic training music"
+          likes={845}
+          messages={531}
+          shares={473}
+          name="Paulo_Santos"
+          description="Why so serious?"
+          music="If You're Happy And You Know It"
           url="https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/bird.mp4?t=2023-05-22T19%3A40%3A47.052Z"        
         />
-        <Video/>
-        <Video/>
       </div>
     </div>
   );
